@@ -1,0 +1,79 @@
+.carousel {
+    padding: 1.5rem;
+    font-family: 'Inter', sans-serif;
+
+    --_color-dark-blue: hsl(240, 38%, 20%);
+    --_color-grayish-blue: hsl(240, 18%, 77%);
+    --_color-box-shodow: hsl(240deg 38% 20% / 35%);
+    --_color-white: #fff;
+}
+
+
+.img-container {
+    background-image: url("../../assets/images/pattern-bg.svg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding: 1.85rem 2.25rem 2rem 2.25rem;
+}
+
+.inner-img-container {
+    position: relative;
+    box-shadow: 0px 15px 15px 0px var(--_color-box-shodow);
+    border-radius: 0.5rem;
+}
+
+.inner-img-container img {
+    border-radius: 0.5rem;
+}
+
+.handlers {
+    position: absolute;
+    right: calc(50% - 2.5rem);
+    bottom: -1.1875rem;
+    width: 5rem; 
+    height: 2.5rem;
+    border-radius: 2rem;
+    background-color: var(--_color-white);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 1.8rem;
+}
+
+.handlers button, 
+.handlers svg {
+    width: 0.75rem;
+    height: 0.75rem;
+}
+
+.content {
+    background-image: url("../../assets/images/pattern-quotes.svg");
+    background-size: 4rem;
+    background-position: top center;
+    background-repeat: no-repeat;
+    padding-top: 1.5rem;
+    margin-top: 1.5rem;
+}
+
+.testi {
+    font-size: 1.14rem;
+    line-height: 1.5rem;
+    font-weight: 300;
+    color: var(--_color-dark-blue);
+    text-align: center;
+}
+
+.name {
+    font-size: 0.94rem;
+    font-weight: 700;
+    color: var(--_color-dark-blue);
+    text-align: center;
+    margin-top: 1rem;
+}
+
+.role {
+    font-size: 0.95rem;
+    font-weight: 500;
+    color: var(--_color-grayish-blue);
+    text-align: center;
+}
