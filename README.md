@@ -40,6 +40,7 @@ Users should be able to:
 - Create components
 - Work on mobile design based on `design` folder
 - Work on carousel functionality
+- Work on desktop design
 
 ### Built with
 
