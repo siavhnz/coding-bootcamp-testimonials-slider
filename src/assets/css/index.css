@@ -7,5 +7,12 @@ body {
     background-image: url("../../assets/images/pattern-curve.svg");
     background-size: contain;
     background-repeat: no-repeat;
-    background-position: bottom -30% right 0;
+    background-position: bottom;
+}
+
+@media (min-width: 64em) {    /* 1024px */
+    
+   body {
+        background-position: bottom -30% right 0;
+   }
 }
