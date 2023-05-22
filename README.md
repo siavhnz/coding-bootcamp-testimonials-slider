@@ -27,13 +27,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![screenshot](./screenshot/screenshot.png)
 
 ### Links
 
-- Solution: [frontendmentor.io](https://www.frontendmentor.io/solutions/?)
+- Solution: [frontendmentor.io](https://www.frontendmentor.io/solutions/coding-bootcamp-testimonials-slider-Xr5TnRGlI9)
 
-- Live Site: [cloudflare](https://?.pages.dev/)
+- Live Site: [cloudflare](https://cb-testimonials-slider.pages.dev/)
 
 ## My process
 
@@ -49,13 +49,18 @@ Users should be able to:
 
 ### What I learned
 
+- Create slider with framer motion
+- overlay elements with grid
+
 ### Continued development
+
+More on React and Framer Motion
 
 ### Useful resources
 
-[Import SVGs in React](https://www.freecodecamp.org/news/how-to-import-svgs-in-react-and-vite/)
+- [Import SVGs in React](https://www.freecodecamp.org/news/how-to-import-svgs-in-react-and-vite/)
 
-[Image slideshow](https://codesandbox.io/s/framer-motion-image-gallery-pqvx3)
+- [Image slideshow](https://codesandbox.io/s/framer-motion-image-gallery-pqvx3)
 
 ## Author
 
