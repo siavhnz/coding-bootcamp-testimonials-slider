@@ -39,8 +39,12 @@ Users should be able to:
 
 - Create components
 - Work on mobile design based on `design` folder
+- Work on carousel functionality
 
 ### Built with
+
+- React
+- Framer Motion
 
 ### What I learned
 
@@ -49,6 +53,8 @@ Users should be able to:
 ### Useful resources
 
 [Import SVGs in React](https://www.freecodecamp.org/news/how-to-import-svgs-in-react-and-vite/)
+
+[Image slideshow](https://codesandbox.io/s/framer-motion-image-gallery-pqvx3)
 
 ## Author
 
